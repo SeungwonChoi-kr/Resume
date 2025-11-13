@@ -43,6 +43,12 @@
 - Unity 환경에서 C#을 사용해 게임 기획부터 개발, 배포까지 프로젝트 전 과정을 주도적으로 이끈 경험이 있습니다.
 - 이를 바탕으로 한 쉐이더 기반의 그래픽 후처리에 큰 관심을 두고 역량을 발전시키고 있습니다.
 
+## Skills
+
+### 🛠️ 기술 스택 (Skills)
+
+<img src="https://img.shields.io/badge/Unity-FFFFFF?logo=Unity&logoColor=black"/> <img src="https://img.shields.io/badge/DirectX 11-0078D4?logo=directx&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+
 ## Project
 
 ### 자원 채굴 게임 (2025.09 - ) [GitHub](https://github.com/SeungwonChoi-kr/Radiant_Relics)
