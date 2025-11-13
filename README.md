@@ -2,14 +2,33 @@
 
 ## Personal Information
 
-<img src="./profile.png" width="180" />
-
-| 항목 | 내용 |
-| --- | --- |
-| **생년월일** | 2002.10.08 |
-| **연락처** | 010-6407-8721 |
-| **E-mail** | [choiswon2002@gmail.com](mailto:choiswon2002@gmail.com) |
-| **주소** | 용인시 기흥구 신촌로 51번길 6-** ***호 |
+<table valign="top">
+<tr>
+<td>
+<table>
+<tr>
+<td><strong>생년월일</strong></td>
+<td>2002.10.08</td>
+</tr>
+<tr>
+<td><strong>연락처</strong></td>
+<td>010-6407-8721</td>
+</tr>
+<tr>
+<td><strong>E-mail</strong></td>
+<td><a href="mailto:choiswon2002@gmail.com">choiswon2002@gmail.com</a></td>
+</tr>
+<tr>
+<td><strong>주소</strong></td>
+<td>용인시 기흥구 신촌로 51번길 6-** ***호</td>
+</tr>
+</table>
+</td>
+<td align="center" style="padding-left: 20px;">
+<img src="./profile.png" width="180" alt="프로필 사진" />
+</td>
+</tr>
+</table>
 
 ## Education
 
